@@ -38,7 +38,7 @@ print("\nListado de estudiantes")
 1576224
 1603524
 1535524
-1560124
+Print("María Leonor Rosales Gutiérrez")
 1503724
 1507624
 1515724
